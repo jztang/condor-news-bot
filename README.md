@@ -1,1 +1,1 @@
-# condor-news-bot
+News tracker for speedrunning achievements and records in the Crypt of the NecroDancer community.
