@@ -1,0 +1,1 @@
+pkill -f "node /home/tang/condor-news-bot/index.js"

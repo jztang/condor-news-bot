@@ -1,0 +1,1 @@
+nohup node /home/tang/condor-news-bot/index.js
