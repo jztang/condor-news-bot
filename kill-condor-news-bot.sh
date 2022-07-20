@@ -1,1 +1,1 @@
-pkill -f "node /home/tang/condor-news-bot/index.js"
+pkill -f "node ./index.js"

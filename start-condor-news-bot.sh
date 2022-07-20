@@ -1,1 +1,1 @@
-nohup node /home/tang/condor-news-bot/index.js &
+nohup node ./index.js &
