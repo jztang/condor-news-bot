@@ -1,1 +1,1 @@
-nohup node ./index.js &
+nohup node ./index.js >> ./logging/condor-news-bot-$(date +"%Y-%m-%d").log 2>&1 &

@@ -1,5 +1,6 @@
 const { Client, Intents } = require("discord.js");
 const { token } = require("./config.json");
+require("log-timestamp");
 
 const client = new Client({
   intents: [

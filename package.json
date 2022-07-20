@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jztang/condor-news-bot#readme",
   "dependencies": {
-    "discord.js": "^13.8.1"
+    "discord.js": "^13.8.1",
+    "log-timestamp": "^0.3.0"
   }
 }
